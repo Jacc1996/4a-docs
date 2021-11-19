@@ -7,4 +7,4 @@ La idea conceptual de la aplicación es la siguiente:
 
 La aplicacion comtemplaria los siguientes complementos:
 
-![Alt text](/versión preliminar de la arquitectura.png?raw=true "Optional Title")
+![Alt text](/1b.png?raw=true "Optional Title")
